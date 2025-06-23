@@ -1,0 +1,21 @@
+Country,City,Total_Revenue_USD,Total_Orders
+Canada,Toronto,600637.8699999988,301
+"United States","New York",492392.44999999955,240
+"United States","Los Angeles",467985.0699999996,238
+"United States",Philadelphia,379028.3299999998,162
+"United States",Houston,360714.0799999999,188
+"United States",Chicago,358004.91000000003,162
+"United States",Dallas,299998.82999999996,125
+Canada,Montreal,266844.98000000016,141
+"United States",Atlanta,241892.73999999996,103
+"United States",Portland,225213.08000000013,102
+"United States",Washington,220014.50999999998,103
+Canada,Calgary,217302.9500000001,111
+Canada,Ottawa,208023.15000000005,74
+"United States",Southfield,203355.41000000003,102
+"United States","San Francisco",193326.85000000003,92
+"United States","Grand Rapids",192723.60000000003,89
+"United States",Miami,187401.95999999996,94
+Canada,Vancouver,181551.50000000003,76
+"United States",Seattle,177222.25000000006,90
+"United States",Memphis,176242.43,81

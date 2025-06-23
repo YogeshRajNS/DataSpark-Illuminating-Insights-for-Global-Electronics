@@ -1,0 +1,25 @@
+Age_group,Category,Total_Units_Sold,Total_Revenue_USD
+Middle,Computers,13558,5916416.10000002
+Middle,"Home Appliances",5919,3486918.760000022
+Middle,"Cameras and camcorders",5497,2030008.2199999948
+Middle,"TV and Video",3582,1964106.0499999893
+Middle,"Cell phones",9785,1898308.6499999862
+Middle,Audio,7393,1000570.7899999932
+Middle,"Music, Movies and Audio Books",8895,987468.8099999906
+Middle,"Games and Toys",7096,229534.6100000016
+Senior,Computers,26313,11539994.490000067
+Senior,"Home Appliances",10728,6302005.070000104
+Senior,"Cameras and camcorders",10429,3803643.9100000127
+Senior,"Cell phones",18549,3660708.6400000565
+Senior,"TV and Video",6552,3444397.5200000177
+Senior,Audio,13815,1862940.069999968
+Senior,"Music, Movies and Audio Books",17153,1848664.6299999247
+Senior,"Games and Toys",13366,426655.2800000014
+Young,Computers,4280,1845184.8699999987
+Young,"Home Appliances",1754,1006554.7599999974
+Young,"Cameras and camcorders",1683,686515.8899999995
+Young,"Cell phones",3143,624773.929999998
+Young,"TV and Video",1102,520479.11999999976
+Young,Audio,2282,306116.88
+Young,"Music, Movies and Audio Books",2754,294873.0000000003
+Young,"Games and Toys",2129,68639.53999999995

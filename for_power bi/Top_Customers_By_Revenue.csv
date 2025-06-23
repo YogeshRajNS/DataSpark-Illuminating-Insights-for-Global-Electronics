@@ -1,0 +1,1001 @@
+CustomerKey,CustomerName,Gender,Age_group,City,Country,Total_Revenue_USD,Total_Orders
+1702221,"Matthew Flemming",Male,Senior,Anaheim,"United States",61871.700000000004,9
+1884663,"Karen Jones",Female,Senior,Lacassine,"United States",43517.8,3
+1969704,"Zrina Topic",Female,Senior,Lyerly,"United States",42788.04,7
+535496,"Stefanie Hartmann",Female,Middle,Geltendorf,Germany,41521.530000000006,3
+551036,"Stephan Rothstein",Male,Senior,Lütjenwestedt,Germany,40556.54,4
+723572,"Gaspare Trevisan",Male,Middle,"Galdo Degli Alburni",Italy,40225.009999999995,14
+262871,"Roy Le",Male,Middle,Merrickville,Canada,38813.88,3
+1928466,"Dennis Weissmuller",Male,Senior,Philadelphia,"United States",38191.06,4
+1503831,"Virgie Takacs",Female,Senior,Walworth,"United States",37319.88,3
+1373561,"Ollie Davis",Female,Middle,Springdale,"United States",36817.28,5
+1087732,"Michael Robertson",Male,Senior,DOWNHEAD,"United Kingdom",36664.30000000001,8
+2001755,"Mie Huus",Female,Senior,Lincoln,"United States",36067.47000000001,3
+1818102,"Tyrone Lewis",Male,Senior,Sturtevant,"United States",35806.19,6
+1579183,"Paul Warren",Male,Middle,Atlanta,"United States",35780.33,10
+879649,"Esin Holman",Female,Middle,s-Gravenpolder,Netherlands,35710.61,4
+714472,"Bibiana Ferri",Female,Senior,Orgosolo,Italy,34963.759999999995,6
+1248847,"Charles Collins",Male,Senior,Eugene,"United States",34858.479999999996,7
+1334387,"Kyle Valentine",Male,Senior,Chappaqua,"United States",34490.759999999995,5
+1633967,"Wayne Banks",Male,Middle,Dubuque,"United States",34484.28,6
+431461,"Felix Beyer",Male,Senior,Rantum,Germany,34343.880000000005,3
+1049861,"Daniel Walton",Male,Young,LARG,"United Kingdom",34141.79,8
+1305082,"David West",Male,Senior,Springfield,"United States",33999.52,5
+220519,"Jodi Hernandez",Female,Young,Toronto,Canada,33481.92999999999,2
+1341195,"Angelo Nolan",Male,Middle,Portland,"United States",33362.659999999996,2
+985427,"Anthony Davis",Male,Young,REDNAL,"United Kingdom",33285.58,5
+587649,"Kristin Oster",Female,Senior,Kreimbach-Kaulbach,Germany,33229.479999999996,3
+1541524,"Tricia Taylor",Female,Middle,Starkville,"United States",32984.909999999996,3
+1780040,"Barbara Claytor",Female,Middle,"Wisconsin Rapids","United States",32975.15,4
+1525193,"Ronald Oconnell",Male,Senior,Portage,"United States",32925.03,6
+1594272,"Charles Fischer",Male,Young,Wawaka,"United States",32867,3
+1920128,"Kerman Desaulniers",Male,Senior,Providence,"United States",32858.28999999999,6
+1680645,"Thu Gilder",Female,Senior,"Fort Lauderdale","United States",32840.509999999995,4
+1282801,"Cassandra Garzon",Female,Middle,"Baton Rouge","United States",32743.520000000004,5
+410798,"Franziska Kuster",Female,Young,Waldenburg,Germany,32639.200000000004,6
+1638118,"Lillian Evans",Female,Senior,Wahiawa,"United States",32605.91,8
+409173,"Ines Faust",Female,Senior,Scharnebeck,Germany,32585.47,2
+969679,"Jamie Gilbert",Male,Young,"PLUMPTON HEAD","United Kingdom",32476.969999999998,3
+893598,"Vinod van de Scheur",Male,Middle,Abcoude,Netherlands,32128.26,4
+1661166,"Bryan Charles",Male,Middle,Pottsville,"United States",32056.89,1
+1478481,"Herbert Lacher",Male,Senior,Columbus,"United States",31543.429999999997,2
+396944,"Zane Belgrave",Male,Middle,Toronto,Canada,30673.440000000002,8
+1360550,"Essie Scott",Female,Middle,Conyers,"United States",30452.44,7
+2091204,"Knud Davidsen",Male,Senior,"Winston Salem","United States",30095.75,5
+1404328,"Toni Sanderson",Female,Senior,"Las Vegas","United States",29988.879999999997,2
+1492176,"Margaret Mattson",Female,Middle,Otho,"United States",29985.499999999996,10
+149955,"Jaxon Fyans",Male,Senior,METUNG,Australia,29936,2
+1588361,"Gavin Kent",Male,Senior,Nicholasville,"United States",29915.8,8
+497789,"Jürgen Richter",Male,Middle,"Düsseldorf Golzheim",Germany,29469.63,2
+720281,"Vera Onio",Female,Middle,Marmora,Italy,29429.87,1
+261356,"Thomas Mull",Male,Middle,Saskatoon,Canada,29326.68,2
+1954880,"Castimir Pejic",Male,Senior,Cheyenne,"United States",29155.300000000003,3
+1309027,"Juan Salinas",Male,Middle,Pensacola,"United States",29020.819999999996,2
+1523982,"Robert Nelsen",Male,Young,Elkhart,"United States",29008.840000000004,9
+1493760,"Eliza Norwood",Female,Middle,"Bon Wier","United States",29002.989999999998,1
+1386439,"Mary Taylor",Female,Senior,"New York","United States",28910.37,2
+1972249,"Claire Macdonald",Female,Middle,Hosmer,"United States",28869.450000000008,9
+1650783,"Anita Hunt",Female,Senior,Columbus,"United States",28829.130000000005,4
+1472319,"Christopher Yancy",Male,Senior,Hornell,"United States",28674.32,5
+1264100,"Richard Halterman",Male,Senior,Livonia,"United States",28587.079999999998,5
+1736139,"Martha Thornton",Female,Middle,Dayton,"United States",28425.35,6
+1539575,"Robert Burns",Male,Senior,Portland,"United States",28281.489999999998,5
+1420237,"Michael Hermes",Male,Senior,"West Palm Beach","United States",28270.19,8
+1432419,"Elmer Henderson",Male,Senior,"North Dade","United States",28100.96,8
+1830019,"Jill Grant",Female,Middle,Austin,"United States",27973.95,2
+521492,"Phillipp Weiß",Male,Middle,Oberthulba,Germany,27534.88,3
+1760076,"Robert Tillis",Male,Middle,Philadelphia,"United States",27502.480000000003,6
+1286602,"Frances Colbert",Female,Middle,Charleston,"United States",27443.909999999996,10
+1010245,"Bethany Leonard",Female,Senior,GRANGE,"United Kingdom",27384.73,5
+1780669,"Herbert Petersen",Male,Senior,"New York","United States",27359.55,4
+271155,"Monika Ward",Female,Senior,Vancouver,Canada,27320.81,2
+1571311,"Joey Lapham",Male,Middle,Indianapolis,"United States",27283.020000000004,6
+1832086,"Mary Woods",Female,Middle,Dearborn,"United States",27282.71,3
+801168,"Gerbrig Langezaal",Female,Senior,Epe,Netherlands,27276.079999999998,2
+1365840,"Shawn Pierre",Male,Senior,"West Nyack","United States",27223.75,4
+70912,"Evie Wieck",Female,Middle,SEVILLE,Australia,27219.200000000004,3
+763573,"Livio Castiglione",Male,Senior,Cenaia,Italy,27017.100000000002,3
+1673408,"Jacqueline Casias",Female,Middle,"Los Angeles","United States",26787,2
+143033,"Mitchell Woodriff",Male,Young,"DONCASTER EAST",Australia,26747.829999999998,2
+1610770,"George Reed",Male,Senior,Everett,"United States",26692.76,4
+1969722,"Isabelle Guernon",Female,Senior,Pittsburgh,"United States",26534.61,4
+2003358,"David Hoffmann",Male,Senior,Biloxi,"United States",26444.5,8
+1925694,"Fabrice Lamoureux",Male,Senior,Minneapolis,"United States",26339.39,9
+1543325,"Marlene Merritt",Female,Young,Albuquerque,"United States",26283.340000000004,8
+569853,"Robert Wulf",Male,Senior,Seedorf,Germany,26255.85,2
+525739,"Jessika Neudorf",Female,Senior,Horbach,Germany,26161.170000000002,3
+1556602,"Dawn Harper",Female,Senior,Florence,"United States",26123.269999999997,6
+1493457,"Marcos McMichael",Male,Senior,Tampa,"United States",26102.13,7
+9184,"Sam Zimpel",Male,Senior,CORUNNUN,Australia,26039.44,2
+1082222,"Rhys Young",Male,Senior,HORSEHAY,"United Kingdom",25865.14,1
+1567347,"Olivia Zack",Female,Middle,Atlanta,"United States",25855.159999999996,4
+1439027,"Phyllis Speicher",Female,Senior,Portland,"United States",25847.28,5
+1854563,"Faye Cloud",Female,Senior,"Orange City","United States",25834.600000000002,6
+1484183,"Thomas Charpentier",Male,Senior,Decatur,"United States",25791.42,6
+1916988,"Elias Gardemeister",Male,Middle,Ocala,"United States",25743.460000000006,5
+960594,"Samuel Lawrence",Male,Middle,SNITTON,"United Kingdom",25733.91,2
+874079,"Ihab Luiting",Male,Middle,Uithoorn,Netherlands,25704.8,3
+1363803,"Erin Stevens",Female,Middle,Turner,"United States",25608.739999999998,1
+1248961,"Leonard Moynihan",Male,Senior,"El Monte","United States",25604.539999999997,7
+1718194,"Amanda Harding",Female,Senior,"Bay City","United States",25551.53,5
+1357822,"Jimmy Small",Male,Middle,Sacramento,"United States",25529.31,5
+1231909,"Andrea McMurray",Female,Middle,Overton,"United States",25492.399999999998,7
+347235,"Betty Hawthorne",Female,Senior,Vernon,Canada,25471.6,2
+891896,"Nour Walburg",Male,Senior,Sassenheim,Netherlands,25449.129999999997,1
+1499604,"Richard Green",Male,Middle,Chicago,"United States",25447,1
+1098687,"Edward Rose",Male,Middle,FULLETBY,"United Kingdom",25432.54,10
+1883496,"Florence Badger",Female,Senior,Hartford,"United States",25364.76,5
+784572,"Gilda Rizzo",Female,Young,Arcugnano,Italy,25330.97,3
+1189747,"Sam Giles",Male,Middle,HERSHAM,"United Kingdom",25312.749999999996,4
+1819252,"Ariel Robinson",Female,Middle,Brewster,"United States",25269.02,6
+950191,"Lauren Newman",Female,Senior,MIDDLEZOY,"United Kingdom",25255.309999999998,4
+1267627,"Carol Wilson",Male,Middle,Washington,"United States",25239.35,4
+1388023,"David Breton",Male,Middle,Atlanta,"United States",25236.97,10
+2057050,"Fabricia Escamilla",Female,Middle,Reno,"United States",25167.73,2
+1979589,"David McCaffrey",Male,Senior,Dallas,"United States",25118.190000000002,2
+1866388,"Sandra Robinson",Female,Senior,Conway,"United States",25112.300000000003,6
+1942072,"Victor Kristensen",Male,Senior,Miami,"United States",25079.21,7
+1720029,"Sally Gutierrez",Female,Senior,"Deerfield Beach","United States",25063.53,3
+1410778,"Doug Dalton",Male,Senior,"San Jose","United States",25017.39,5
+1978029,"Yvonne Christiansen",Female,Senior,Seattle,"United States",24982.14,4
+478977,"Kathrin Maurer",Female,Middle,Chemnitz,Germany,24962.429999999997,4
+780974,"Maurizia Pirozzi",Female,Middle,Morano,Italy,24847.980000000003,9
+2080735,"Ricky Frazier",Male,Senior,Worcester,"United States",24764.559999999998,4
+363584,"Mandy Serna",Female,Middle,Richmond,Canada,24753.739999999998,5
+1097685,"Amy Welch",Female,Middle,"EDVIN LOACH","United Kingdom",24740.82,4
+1328055,"Robert Smith",Male,Middle,"Lake Geneva","United States",24736.08,10
+1458301,"William Templin",Male,Young,Nashville,"United States",24714.27,7
+1243894,"Roxie Minton",Female,Middle,Midvale,"United States",24683.3,6
+537509,"Kathrin Gottschalk",Female,Young,Warburg,Germany,24592.83,3
+434588,"Sandra Hertz",Female,Senior,Reinheim,Germany,24525,2
+1438900,"Sharon Daly",Female,Middle,Longview,"United States",24463.949999999997,2
+336348,"Jonathan Johnson",Male,Middle,Ottawa,Canada,24379.1,4
+584827,"Mathias Brandt",Male,Senior,Iffeldorf,Germany,24359.26,2
+1256256,"Madeline Sluss",Female,Middle,"Wisconsin Dells","United States",24321.440000000002,7
+2048275,"Saa Jelic",Male,Middle,Toledo,"United States",24289.46,2
+1880406,"James Claudio",Male,Senior,"Falls Church","United States",24259.91,5
+2033974,"Zosia Pawlowska",Female,Senior,Phoenix,"United States",24165.12,3
+549983,"Paul Ehrlichmann",Male,Middle,Ermsleben,Germany,24067.53,2
+1767858,"William Dyar",Male,Middle,"Pine Bluff","United States",24046.989999999998,3
+1509978,"Elizabeth Smith",Female,Senior,Kenner,"United States",24007.11,5
+2034922,"Aubrey Audet",Female,Senior,Dorchester,"United States",23992.160000000003,9
+1373363,"Mary Grell",Female,Middle,Denver,"United States",23941.79,6
+1861020,"Scott Fullen",Male,Young,Waimea,"United States",23874.2,5
+1409340,"Lenora Hernandez",Female,Middle,"New York","United States",23868.72,4
+1203222,"David Thiele",Male,Middle,Baltimore,"United States",23802.09,3
+205333,"Judith Lutz",Female,Middle,Shawville,Canada,23733.870000000003,2
+1727849,"Denise Smith",Female,Senior,Eunice,"United States",23732.699999999997,4
+1326966,"Carol Pringle",Female,Senior,"Santa Clara","United States",23728.539999999997,2
+1603158,"William Yu",Male,Senior,Marlboro,"United States",23650.110000000004,3
+1885716,"Mary Shaw",Female,Senior,Memphis,"United States",23649.170000000002,3
+1460501,"Nancy Gaston",Female,Senior,"Grand Rapids","United States",23636.45,3
+1884616,"Katharine Main",Female,Middle,"Myrtle Beach","United States",23612,2
+2037884,"Mario imunovic",Male,Senior,Medway,"United States",23549.550000000003,7
+1939321,"Helena Mikovská",Female,Middle,Detroit,"United States",23478.249999999996,6
+1960099,"Ora Loera",Female,Middle,"West Los Angeles","United States",23447.5,2
+1393392,"Nancy Rowlett",Female,Senior,"Nora Springs","United States",23381.99,5
+1957363,"Madlyn Johnston",Female,Senior,"St Marys","United States",23379.380000000005,6
+1585149,"Judith Eckman",Female,Senior,"Grand Rapids","United States",23348.980000000003,4
+738388,"Gino Lombardi",Male,Senior,Sologno,Italy,23317.770000000004,4
+2086548,"Augustyn Czerwinski",Male,Senior,"Schiller Park","United States",23268.899999999998,1
+342512,"Rita Smith",Female,Senior,Toronto,Canada,23229.34,3
+2042548,"Fanchon Charette",Female,Senior,Eagan,"United States",23168.93,5
+350979,"Barbara King",Female,Middle,Gibsons,Canada,23118.230000000003,4
+1531435,"Ester Camacho",Female,Middle,"Fort Lauderdale","United States",23083.91,2
+856525,"Mikail Halman",Male,Senior,Feanwâlden,Netherlands,22996.96,2
+1483256,"Al James",Male,Senior,"Rancho Cordova","United States",22975.09,7
+1728581,"Keshia King",Female,Senior,"Corpus Christi","United States",22953.370000000003,4
+1410305,"Catherine White",Female,Senior,"Little Rock","United States",22950.98,6
+1778618,"Brittany Nauman",Female,Middle,Phoenix,"United States",22932.879999999997,3
+1091419,"Dominic Banks",Male,Senior,KIRKLINTON,"United Kingdom",22818.030000000002,3
+1160758,"Abigail Myers",Female,Young,"WITTON GILBERT","United Kingdom",22816.39,4
+783691,"Pupetta Udinese",Female,Middle,"Pieve Di Trebbio",Italy,22569.850000000002,2
+22540,"Connor Ruwolt",Male,Middle,BANDYA,Australia,22548.08,2
+778498,"Ortensia Monaldo",Female,Middle,Fimiani,Italy,22542.149999999998,6
+1211642,"Anthony Coy",Male,Senior,"Atlantic City","United States",22519.199999999997,4
+672584,"Alice Lafond",Female,Senior,PONTOISE,France,22466.65,2
+1150424,"Kian Sims",Male,Senior,HALSTEAD,"United Kingdom",22399.93,1
+825894,"Timotheus Liefting",Male,Senior,Arnhem,Netherlands,22374.940000000002,4
+476275,"Ralf Holtzmann",Male,Senior,Hof,Germany,22352.79,2
+478298,"Juliane Duerr",Female,Senior,Griesbach,Germany,22340.07,8
+1373535,"Jerry Kennison",Male,Senior,"Daytona Beach","United States",22338.170000000006,3
+1111119,"Alisha Kennedy",Female,Middle,"WIMBORNE ST GILES","United Kingdom",22303.76,2
+1053706,"Jake Steele",Male,Senior,WELWICK,"United Kingdom",22264.41,3
+1659040,"Donald Shelton",Male,Young,Petersburg,"United States",22223.659999999996,5
+366500,"Victoria Ortiz",Female,Senior,Kitscoty,Canada,22220.829999999998,5
+1592400,"Bradley McClain",Male,Senior,"Ocean Park","United States",22217.99,4
+1302817,"Dale Fowler",Male,Senior,Shelby,"United States",22175.03,4
+2011796,"Adéla Perutková",Female,Middle,Wheeling,"United States",22146.780000000002,2
+1143574,"Samantha Barnes",Female,Senior,NEWBRIDGE,"United Kingdom",22134.820000000003,3
+479678,"Ute Kappel",Female,Middle,Ortenburg,Germany,22113.67,2
+1688411,"Christine Coe",Female,Senior,Sylmar,"United States",22103.12,3
+2082335,"Brigliador Morel",Male,Middle,"Palo Alto","United States",22041.440000000002,3
+1246775,"Colette Looney",Female,Middle,"Warrensville Heights","United States",22026.26,3
+322806,"Joshua Free",Male,Middle,Victoria,Canada,22021.120000000003,3
+773896,"Calimero Longo",Male,Senior,"Taibon Agordino",Italy,22010.53,6
+252545,"Michael Gabriel",Male,Senior,Ottawa,Canada,21987.53,3
+1600419,"Dorsey Nelson",Male,Senior,Houston,"United States",21952.57,6
+717000,"Pasquale Gallo",Male,Senior,Valtina,Italy,21917.949999999997,4
+1230071,"Paul Perkins",Male,Young,Shelton,"United States",21823.719999999998,3
+1686673,"Richard Huggins",Male,Senior,Dallas,"United States",21816.12,3
+1833460,"John Bishop",Male,Senior,Norfolk,"United States",21748.080000000005,7
+1330039,"Jenny Castillo",Female,Middle,"Spider Lake","United States",21728.71,8
+1756364,"Kenneth Black",Male,Senior,"Cliffside Park","United States",21670.61,4
+1931525,"Victor Almeida",Male,Senior,Saginaw,"United States",21658.930000000004,5
+1842942,"Grace Oneal",Female,Senior,Ventura,"United States",21647.239999999998,5
+1952663,"Reeta Nieminen",Female,Middle,Philadelphia,"United States",21622.939999999995,4
+1694419,"Bessie Mack",Female,Middle,Olpe,"United States",21614.120000000003,6
+1375230,"Dorothy Folsom",Female,Senior,Orlando,"United States",21561.390000000003,3
+1738685,"William Wilkerson",Male,Senior,Norfolk,"United States",21538.94,2
+1661476,"Harold Ahmad",Male,Senior,Nashville,"United States",21534.800000000003,3
+322936,"Brenda Diehl",Female,Senior,Lachute,Canada,21513.8,2
+461982,"Vanessa Holzman",Female,Senior,Norderstedt,Germany,21502.519999999997,8
+592147,"Martin Hartmann",Male,Middle,Altenmoor,Germany,21480.399999999998,4
+660527,"Vachel Coupart",Male,Senior,MONTPELLIER,France,21470.27,7
+924975,"Kayleigh Power",Female,Senior,KILVERSTONE,"United Kingdom",21455.469999999998,5
+247129,"Edward Sims",Male,Young,Calgary,Canada,21453.959999999995,5
+1634778,"Sadie Williamson",Female,Middle,Franklin,"United States",21428.089999999997,5
+2021107,"Jim Jonasson",Male,Middle,Hershey,"United States",21402.329999999998,4
+1429300,"Kenneth Correa",Male,Senior,Soso,"United States",21384.609999999997,3
+2098223,"Hansine Davidsen",Female,Middle,Westerville,"United States",21377.129999999997,6
+1163948,"Finley Holloway",Male,Middle,BLAENWAUN,"United Kingdom",21356.15,4
+2071369,"Bazyli Adamczyk",Male,Senior,Portsmouth,"United States",21340.62,5
+1201225,"John Lally",Male,Young,Irvine,"United States",21276.63,7
+1473522,"Susan Cecil",Female,Senior,Strongsville,"United States",21250.28,4
+1226395,"Darryl Stec",Male,Senior,Bridgeport,"United States",21222.859999999997,6
+1557811,"Mary Bueno",Female,Middle,Southfield,"United States",21219.409999999996,5
+1618950,"Richard Jensen",Male,Senior,Fresno,"United States",21143.460000000003,2
+528376,"Jonas Meyer",Male,Senior,Schermbeck,Germany,21081.680000000004,6
+239126,"Gary Jackson",Male,Middle,Avonmore,Canada,21045.030000000002,3
+2044567,"Catriona Dickson",Female,Senior,"Warner Robins","United States",21036.379999999997,8
+1069911,"Declan O'Donnell",Male,Senior,"EAST BARKWITH","United Kingdom",20970.95,1
+961200,"Anthony Sykes",Male,Senior,LLANDDOGED,"United Kingdom",20964.799999999996,4
+754542,"Giona Lo Duca",Male,Senior,Vaglia,Italy,20961.409999999996,4
+565369,"Markus Fuhrmann",Male,Senior,Nomborn,Germany,20956.239999999998,5
+505485,"Benjamin Ehrlichmann",Male,Senior,"Düsseldorf Niederkassel",Germany,20954.69,4
+125236,"Jordan Sissons",Male,Senior,"MORNINGTON ISLAND",Australia,20928.019999999997,2
+250944,"Dallas Hudson",Male,Middle,Welland,Canada,20886.7,4
+1268661,"Michael Whitehurst",Male,Senior,"Golden Valley","United States",20814.249999999996,10
+1937404,"Zdenka Hendrichová",Female,Senior,Auburn,"United States",20785.74,2
+1588395,"Audrey Berk",Female,Senior,Manchester,"United States",20762,2
+533358,"Angelika Koenig",Female,Young,Schnaittenbach,Germany,20754.12,3
+658552,"Claudette Massé",Female,Senior,SARREGUEMINES,France,20742.94,2
+81018,"Riley De La Rue",Male,Senior,HUON,Australia,20727.460000000006,2
+1116156,"Anna Moran",Female,Senior,KINGSAND,"United Kingdom",20716.190000000002,8
+1451323,"Christopher O'Connor",Male,Senior,Robinson,"United States",20708.89,7
+1567343,"Ilene Otto",Female,Senior,Dagsboro,"United States",20667.269999999997,3
+1678562,"Glen Jolin",Male,Senior,Wayne,"United States",20648.63,4
+417275,"Stefan Vogler",Male,Middle,"Berlin Britz",Germany,20644.36,4
+482108,"Michael Theissen",Male,Senior,Gutach,Germany,20615.59,1
+1310403,"Derrick Burleson",Male,Senior,Pascagoula,"United States",20589.98,6
+1730966,"Cynthia Brown",Female,Senior,"New Haven","United States",20589.690000000002,5
+1410514,"Donna Groesbeck",Female,Senior,Houston,"United States",20571.89,4
+418091,"Torsten Bumgarner",Male,Middle,Taufkirchen,Germany,20558.680000000004,6
+1543466,"Greg Ramey",Male,Middle,Griffin,"United States",20541.15,4
+1693175,"Inez Grant",Female,Middle,Buford,"United States",20532.66,3
+1951611,"Jelica aric",Female,Senior,Plains,"United States",20504.94,3
+1682386,"Ivy Krick",Female,Senior,Antioch,"United States",20504.22,4
+433811,"Frank Vogel",Male,Senior,Mötzing,Germany,20496.2,4
+1610098,"Sara Christensen",Female,Middle,Loveland,"United States",20458.219999999998,9
+628139,"Holly Pariseau",Female,Senior,CALAIS,France,20457.88,1
+474309,"Stefanie Becker",Female,Senior,Kirchensittenbach,Germany,20450.779999999995,3
+2042291,"Verne Terrazas",Male,Young,Alpharetta,"United States",20445.97,3
+263308,"Theodore Hickey",Male,Middle,Brantford,Canada,20439.989999999998,1
+1185221,"Francesca Austin",Female,Middle,EVERLEIGH,"United Kingdom",20434.269999999997,4
+1402836,"Harry Ponder",Male,Senior,Oakland,"United States",20424.36,6
+1427596,"Gregory Beckman",Male,Senior,Greenville,"United States",20386.12,3
+1358765,"Kyra Marrero",Female,Senior,Cottonwood,"United States",20377.890000000003,5
+444807,"Katja Pabst",Female,Senior,Niederwallmenach,Germany,20349.93,4
+1682472,"Jennifer Kern",Female,Senior,Hollywood,"United States",20345.89,3
+2041451,"Søren Broberg",Male,Senior,Flagstaff,"United States",20299.93,1
+1765634,"Vivian Parra",Female,Senior,Ada,"United States",20297,2
+1354140,"John Woody",Male,Middle,Jonesville,"United States",20278.469999999998,6
+1536505,"Pearl Moore",Female,Middle,Bordentown,"United States",20272.510000000002,3
+1932745,"Seth Torode",Male,Senior,Corona,"United States",20198.170000000002,4
+598323,"Mike Nadel",Male,Senior,Aschaffenburg,Germany,20180.53,5
+2069957,"Andreas Rasmussen",Male,Middle,"Ft Lauderdale","United States",20179.91,4
+1276598,"Lisa Comeaux",Female,Senior,Worthington,"United States",20138.58,4
+1232332,"Harry Smalley",Male,Senior,Goodland,"United States",20129.520000000004,3
+1312078,"Joseph Garner",Male,Senior,Anaheim,"United States",20078.739999999998,7
+1379027,"Carmelia Morton",Female,Senior,Charlotte,"United States",20076.379999999997,2
+348917,"Heather Hayes",Female,Senior,Vancouver,Canada,19920.19,2
+1404845,"Alicia Stewart",Female,Senior,Piedmont,"United States",19913.96,5
+1998377,"Mirjana Hrvatin",Female,Middle,Charlotte,"United States",19901,2
+1102760,"Ewan Yates",Male,Senior,LENTON,"United Kingdom",19891.68,4
+701625,"Bellina Marino",Female,Senior,"San Michele Cavana",Italy,19876.7,5
+1724782,"Samantha Maldonado",Female,Senior,"Los Angeles","United States",19861.93,6
+1884908,"Eric Ellis",Male,Senior,"Lock Haven","United States",19844.749999999996,3
+1149875,"Melissa Whitehead",Female,Senior,RODWAY,"United Kingdom",19797.879999999997,4
+1687142,"Lucy Perryman",Female,Senior,"Oklahoma City","United States",19795.210000000003,3
+1409991,"Brian Feldman",Male,Senior,Albany,"United States",19777.519999999997,8
+226220,"Monty Harris",Male,Middle,Ottawa,Canada,19740.01,4
+1763642,"Karen Smith",Female,Senior,"Golden Valley","United States",19734.210000000003,6
+1789699,"Mark Gorden",Male,Middle,Hawkinsville,"United States",19728.640000000003,6
+1369363,"Jose Schmidt",Male,Senior,"West Roxbury","United States",19671.15,5
+1639605,"Betty Diaz",Female,Senior,Frisco,"United States",19664.79,4
+1439502,"Wayne Long",Male,Senior,Madison,"United States",19632.290000000005,6
+1165252,"Cameron Murray",Male,Middle,WHITCOMBE,"United Kingdom",19621.92,2
+710555,"Ramiro Ferri",Male,Senior,"Castano Primo",Italy,19590.620000000003,4
+1111848,"Alexander Patel",Male,Middle,INGRAVE,"United Kingdom",19586.58,4
+551501,"Leah Biermann",Female,Senior,"Hamburg Sasel",Germany,19581.47,2
+519586,"Susanne Wannemaker",Female,Middle,Cottbus,Germany,19564.18,4
+1766887,"Sabrina Aikens",Female,Senior,Merna,"United States",19543.489999999998,3
+1756027,"Marvin Klein",Male,Senior,Dallas,"United States",19542.46,3
+2080484,"Delmer Martinez",Male,Senior,Hattiesburg,"United States",19536.34,12
+763033,"Luisella Napolitano",Female,Senior,Orti,Italy,19517.91,4
+1813480,"Steven Prado",Male,Senior,"Grand Island","United States",19513.34,5
+1730479,"Raymond Smith",Male,Young,Rolla,"United States",19479.61,4
+1898949,"Robert Padula",Male,Young,Phoenix,"United States",19464.88,4
+774742,"Lodovico Fiorentini",Male,Senior,Mondaino,Italy,19436.61,3
+507358,"Mike Frueh",Male,Young,Großefehn,Germany,19430.78,4
+1846531,"Mary Weingartner",Female,Senior,Newark,"United States",19425.38,3
+2096777,"Yves Busson",Male,Senior,Irvine,"United States",19387.05,4
+1125468,"Jamie Howard",Male,Middle,HOFF,"United Kingdom",19350.89,3
+2032411,"Eneyen Hernández",Male,Senior,Houston,"United States",19242.280000000006,5
+1849306,"Chad Coon",Male,Middle,"East Lansing","United States",19204.32,8
+2068960,"Steffen Foerster",Male,Middle,"North Charleston","United States",19199.94,1
+758321,"Giuseppa Udinesi",Female,Middle,Sarcedo,Italy,19082.989999999998,4
+1948852,"Jan Vlk",Male,Middle,"St Peters","United States",19048.35,5
+300844,"Christian Larsen",Male,Senior,"Niagara Falls",Canada,19042.239999999998,4
+401266,"Stephan Probst",Male,Senior,Schutz,Germany,19033.569999999996,2
+1840835,"Neal Roberts",Male,Senior,Southfield,"United States",18995.6,5
+497839,"Marina Austerlitz",Female,Senior,Halberstadt,Germany,18991.66,6
+966543,"Jordan Perry",Male,Middle,CLWT-Y-BONT,"United Kingdom",18981.62,2
+1716357,"Veronica Benford",Female,Senior,Chalmette,"United States",18913.989999999998,7
+921825,"Kieran O'Connor",Male,Senior,"LITTLE TORBOLL","United Kingdom",18878.820000000003,7
+1253166,"John Watson",Male,Senior,Woburn,"United States",18864.17,6
+1261460,"Elisha Matos",Male,Senior,Birmingham,"United States",18856.54,4
+1002933,"Ella Roberts",Female,Senior,LONGHAM,"United Kingdom",18799.670000000002,6
+114070,"Henry Childe",Male,Middle,"CASTLE DOYLE",Australia,18796.56,2
+1632302,"Gertrude Spencer",Female,Middle,Cambridge,"United States",18795.8,3
+1563218,"Victor Jackson",Male,Middle,Bedford,"United States",18778.02,2
+2039866,"Samira Berggren",Female,Senior,"North Las Vegas","United States",18765.949999999997,4
+1539806,"Shawn Harris",Male,Senior,"Green River","United States",18757,4
+1374605,"Katherine Ferreira",Female,Senior,Parksley,"United States",18705.309999999994,5
+1668822,"Erin Bennett",Female,Senior,Gainesville,"United States",18602.48,2
+2029619,"Madeline Haller",Female,Senior,"Las Vegas","United States",18518,3
+1013019,"Nathan Sanders",Male,Senior,WOLL,"United Kingdom",18515.949999999997,2
+1076923,"Andrew Akhtar",Male,Senior,THOMSHILL,"United Kingdom",18496.21,4
+1471107,"Beth Smith",Female,Senior,Louisville,"United States",18397.949999999997,4
+1210105,"Mary McCollum",Female,Senior,Anniston,"United States",18393.77,5
+367131,"Heather Henderson",Female,Senior,Belleville,Canada,18381,5
+1905541,"Jirina Dostálová",Female,Middle,Cleveland,"United States",18376.78,3
+1060009,"Amy Walsh",Female,Young,"BRAMPTON BRYAN","United Kingdom",18352.2,3
+1075069,"Zara Gregory",Female,Senior,GOUDHURST,"United Kingdom",18350.63,3
+1598675,"Mary McKown",Female,Senior,Montgomery,"United States",18334.21,3
+2038841,"Michal Black",Male,Senior,"New Orleans","United States",18332.870000000003,4
+529903,"Angelika Shuster",Female,Senior,Oberstaufen,Germany,18328.32,5
+2032912,"Rebecca Porter",Female,Senior,"Los Angeles","United States",18317.199999999997,4
+186894,"Stella Brookfield",Female,Senior,NERRING,Australia,18283.25,4
+522652,"Mathias Adler",Male,Middle,Lünne,Germany,18278.059999999998,2
+1221358,"Becky Summers",Female,Senior,Norcross,"United States",18246.81,3
+1470908,"Linda Johnson",Female,Young,Akron,"United States",18243.37,3
+1647594,"James Rothermel",Male,Senior,Concord,"United States",18234.879999999997,2
+1996959,"Antonija Horvat",Female,Middle,"Lock Haven","United States",18230.3,7
+1999721,"Tihomil Boic",Male,Middle,Honolulu,"United States",18230.280000000002,3
+241885,"Tina Mock",Female,Middle,Winnipeg,Canada,18205.99,2
+718462,"Teodata Mazzi",Female,Senior,"Trino Vercellese",Italy,18192.339999999997,6
+1312168,"Henry Cox",Male,Senior,Champaign,"United States",18188.12,7
+250884,"Kyle Askins",Male,Senior,Brampton,Canada,18180.879999999997,3
+1271239,"Amber Breeden",Female,Young,Lubbock,"United States",18173.74,2
+2042037,"Ela Skaug",Female,Middle,Cincinnati,"United States",18142.99,3
+479447,"Daniel Kaestner",Male,Senior,Weiden,Germany,18117.9,2
+946857,"Dylan Taylor",Male,Senior,NANTMEL,"United Kingdom",18094.779999999995,8
+567932,"Marcel Dresner",Male,Young,Aschenhausen,Germany,18069.61,5
+1114100,"Holly Mellor",Female,Senior,SHILLINGFORD,"United Kingdom",18042.87,4
+507454,"Tanja Zimmer",Female,Middle,Osterburg,Germany,18030.859999999997,1
+1568116,"Veronica Jones",Female,Young,Norwalk,"United States",18003.649999999998,8
+609198,"Jay Fremont",Male,Senior,ALBI,France,18003.530000000002,1
+493374,"Sarah Metzger",Female,Senior,Dannewerk,Germany,18000.269999999997,4
+934744,"Poppy Curtis",Female,Middle,DUNTISH,"United Kingdom",17985.75,3
+1208615,"Jean Vega",Female,Middle,Madisonville,"United States",17980.030000000002,6
+564341,"Sabrina Seiler",Female,Young,Vellmar,Germany,17977.56,1
+876454,"Hilde Bleeker",Female,Middle,Heemskerk,Netherlands,17940.210000000003,5
+1451919,"Chelsea Stockton",Female,Middle,Downey,"United States",17930.629999999997,5
+678886,"Dominique Miron",Male,Senior,CLICHY-SOUS-BOIS,France,17923.84,1
+1022388,"Isabella Atkins",Female,Middle,WOODTOWN,"United Kingdom",17901.6,4
+483118,"Phillipp Koch",Male,Senior,Potsdam,Germany,17863.29,4
+1316237,"Mark Creamer",Male,Senior,Clinton,"United States",17855.420000000002,5
+2026801,"Anna Svobodová",Female,Middle,Nisswa,"United States",17851.149999999998,5
+1304549,"Gene Ogle",Male,Senior,Horatio,"United States",17847.76,5
+1410548,"Mark Hillman",Male,Senior,"Cairo (Allen)","United States",17845.84,7
+1886932,"Christine Jackson",Female,Senior,Finleyville,"United States",17838.55,4
+437389,"Michelle Reinhard",Female,Senior,Arnsdorf,Germany,17742.64,5
+1944572,"Blake Bodenwieser",Male,Senior,Brooklyn,"United States",17739.269999999997,6
+1815456,"Terry Herring",Female,Senior,"Fort Myers","United States",17732.9,8
+1771225,"Mary Daniel",Female,Senior,Philadelphia,"United States",17716.69,4
+1877836,"Isabelle Harris",Female,Senior,Wichita,"United States",17710.84,4
+1965288,"Tilde Villadsen",Female,Young,"Las Vegas","United States",17706.79,3
+1449155,"Mary Gilmour",Female,Senior,Albany,"United States",17658.12,6
+1971983,"Lucas Ackerman",Male,Senior,"Buffalo Grove","United States",17620.739999999998,4
+1858665,"Myrtice Cottrell",Female,Middle,Philadelphia,"United States",17595.590000000004,5
+518368,"Manuela Kappel",Female,Middle,"Viersen Helenabrunn",Germany,17573.579999999998,2
+1806153,"William Ward",Male,Young,"Armonk Village","United States",17535.640000000003,3
+543834,"Phillipp Gersten",Male,Middle,Schulzendorf,Germany,17534.09,6
+1417576,"James Conway",Male,Senior,Olpe,"United States",17530.930000000004,3
+522806,"René Fuerst",Male,Senior,Bismark,Germany,17522.04,10
+458548,"Anna Barth",Female,Middle,Merzig,Germany,17483.83,5
+1881107,"David Weeks",Male,Senior,"Jersey City","United States",17474.45,2
+1521733,"Lisa Sherman",Female,Senior,Richmond,"United States",17474.39,9
+1090726,"Dominic Sharp",Male,Senior,AISLABY,"United Kingdom",17474.280000000006,8
+1352703,"Ryan Cline",Male,Young,Louisville,"United States",17454.9,3
+429563,"Lucas Werfel",Male,Middle,Mölln,Germany,17427.91,2
+1132350,"Harry Walton",Male,Senior,"COMBE ST NICHOLAS","United Kingdom",17392.449999999997,3
+806791,"Aäron Blokdijk",Male,Senior,Bleiswijk,Netherlands,17379.800000000003,2
+1724519,"Janice Anderson",Female,Senior,Chicago,"United States",17364.95,1
+771348,"Prisca Boni",Female,Middle,"Ono San Pietro",Italy,17316.9,3
+1846024,"Rod Scott",Male,Senior,"New York","United States",17276.63,7
+1311008,"Scott Brenton",Male,Middle,Saginaw,"United States",17259.89,2
+1987941,"Matilda Kindler",Female,Young,Matthews,"United States",17246.85,3
+910032,"Henry Shah",Male,Senior,BREDON,"United Kingdom",17246.27,4
+1287610,"Angela Cain",Female,Senior,Corydon,"United States",17238.25,2
+1041698,"Caitlin Ingram",Female,Senior,"NEWBY BRIDGE","United Kingdom",17236.15,4
+900030,"John Ingram",Male,Senior,DENNYLOANHEAD,"United Kingdom",17203.43,4
+136284,"Jett Power",Male,Middle,"AVOCA BEACH",Australia,17183.780000000002,3
+1802052,"Dottie Bounds",Female,Middle,Lansing,"United States",17162.5,3
+139856,"Alyssa Dovey",Female,Senior,CAMIRA,Australia,17149.69,1
+1981004,"Václav Voves",Male,Senior,Fresno,"United States",17119.989999999998,7
+337695,"Lucila Yagi",Female,Middle,Edmonton,Canada,17082.6,5
+982052,"Charlie Cole",Female,Middle,"ST MINVER","United Kingdom",17081.11,7
+1981868,"James Wallach",Male,Senior,Burnet,"United States",17074.22,6
+1287333,"Lena Gilmore",Female,Senior,Austell,"United States",17042.989999999998,3
+1957841,"Jennifer Fleischer",Female,Young,"Kansas City","United States",17036.489999999998,7
+1706247,"Tracy King",Female,Senior,"Mountain View","United States",17033.32,6
+1471397,"Elizabeth Peete",Female,Senior,"La Plata","United States",17002.640000000003,6
+945870,"Max Glover",Male,Senior,TERRINGTON,"United Kingdom",17000.11,6
+1755781,"Jaime Madrigal",Male,Senior,Dallas,"United States",16987.73,4
+1956497,"Olli-Pekka Rehn",Male,Senior,Tucson,"United States",16986.53,4
+268820,"Patrice Morillo",Female,Senior,Saskatoon,Canada,16977.190000000002,3
+2096472,"Laure Mainville",Female,Middle,Anaheim,"United States",16965.79,4
+1738306,"Paul Dell",Male,Senior,Chignik,"United States",16943.33,3
+190882,"Kate Berrick",Female,Senior,"GASCOYNE RIVER",Australia,16940.6,2
+1112974,"Jay Hutchinson",Male,Middle,APPLETON-LE-MOORS,"United Kingdom",16902.920000000002,4
+1260588,"Berniece Turner",Female,Young,Chicago,"United States",16889.53,5
+1152038,"Nicholas Newman",Male,Senior,"LILBURN TOWER","United Kingdom",16886.85,2
+1388042,"Kenneth Tucker",Male,Senior,Sacramento,"United States",16882.19,7
+1764995,"Keshia Jacob",Female,Senior,Minneapolis,"United States",16878.11,4
+1094276,"Kyle Quinn",Male,Senior,"LANGTON LONG BLANDFORD","United Kingdom",16860.559999999998,5
+530451,"Stefan Kunze",Male,Middle,"Berlin Charlottenburg",Germany,16858.44,4
+1550543,"Michael Barter",Male,Middle,Richmond,"United States",16810.77,3
+1302010,"Carrie Turk",Female,Senior,"Arroyo Grande","United States",16809.09,3
+345910,"Helen Barber",Female,Senior,Toronto,Canada,16789.67,4
+1964297,"Eloise Sicard",Female,Senior,"Rochelle Park","United States",16784.3,6
+187653,"Makayla Hassall",Female,Senior,"MUSCLE CREEK",Australia,16778.46,2
+2014226,"Theodor Kristoffersen",Male,Senior,Pittsburgh,"United States",16772.43,10
+784983,"Isotta Trevisan",Female,Middle,"Prime Case",Italy,16764.760000000002,4
+1749157,"Millard Levell",Male,Senior,"Saint Louis","United States",16761.85,3
+1318608,"Robert Rashid",Male,Senior,"Table Mesa","United States",16751.71,3
+930705,"Elizabeth Butler",Female,Young,SHAMBELLIE,"United Kingdom",16748.2,10
+1807649,"Thomas Williams",Male,Senior,"Los Angeles","United States",16738.95,9
+1888911,"Roland Sanders",Male,Senior,"Silver Bay","United States",16731.7,2
+1704715,"Kenneth Huston",Male,Senior,"Lake Andes","United States",16682.940000000002,2
+1236959,"Ollie O'Sullivan",Male,Senior,Midlands,"United States",16670.89,6
+1822685,"Lewis Crigler",Male,Senior,"East Orange","United States",16656.33,7
+977967,"Gracie Dean",Female,Senior,SELATTYN,"United Kingdom",16605.47,5
+326396,"Elaine Dyson",Female,Middle,"St Odilon De Cranbourne",Canada,16537.92,4
+2011673,"Alexander Kelynack",Male,Senior,Charlotte,"United States",16522.84,5
+1233925,"Robert Davis",Male,Young,"San Marcos","United States",16518.879999999997,7
+1535357,"Elizabeth Williams",Female,Middle,"Los Angeles","United States",16489.850000000002,5
+1610011,"Anthony Phillips",Male,Young,Columbia,"United States",16483.69,3
+1349131,"Katherine Rosales",Female,Middle,Jackson,"United States",16479.1,11
+1997780,"Jana Neumann",Female,Senior,Elizabethtown,"United States",16439.61,5
+1057055,"Kyle Dixon",Male,Senior,COOKSHILL,"United Kingdom",16434.559999999998,8
+458021,"Christian Gärtner",Male,Senior,Zwota,Germany,16412.92,3
+224111,"Irene Cardoza",Female,Middle,Montreal,Canada,16405.199999999997,8
+1154631,"Charlie Shah",Male,Middle,HIGHLAWS,"United Kingdom",16403.38,5
+1948390,"Laura Sousa",Female,Young,Madison,"United States",16400.91,5
+680259,"Loyal Dupuy",Male,Middle,SAINTE-MARIE,France,16396.69,4
+890474,"Pytsje Smelt",Female,Senior,Zaandam,Netherlands,16390.88,3
+1212385,"Aaron Mitchell",Male,Young,Midland,"United States",16388.059999999998,4
+2089159,"Jean Thériault",Male,Senior,Madison,"United States",16385.46,4
+574327,"Jens Himmel",Male,Senior,Rüdersdorf,Germany,16379.020000000002,10
+448802,"Sven Biermann",Male,Young,Niederschlettenbach,Germany,16366.439999999999,3
+914878,"Cerys Wallace",Female,Middle,BRYNGWYN,"United Kingdom",16363.010000000002,4
+1235768,"Ruth Gaytan",Female,Middle,Chicago,"United States",16361,1
+1714946,"Clifton Frazier",Male,Senior,"Sergeant Bluff","United States",16358.55,4
+1254329,"Charles Martinez",Male,Young,Acton,"United States",16345.86,5
+217910,"Arthur Messina",Male,Middle,Contrecoeur,Canada,16328.88,3
+1307023,"Debbie Nishida",Female,Middle,Lafayette,"United States",16312.84,7
+971022,"Shannon Walters",Female,Senior,"SELSFIELD COMMON","United Kingdom",16308.45,1
+1771687,"Clarence Clifford",Male,Young,Mayo,"United States",16306,1
+456306,"Katrin Fink",Female,Middle,Plauen,Germany,16303.29,5
+876859,"Kaitlin Out",Female,Senior,Echt,Netherlands,16295.03,1
+1941945,"Julia Diederich",Female,Senior,"Golden Valley","United States",16260,1
+2025711,"Guy Ledesma",Male,Senior,Gillette,"United States",16247.849999999999,3
+1389511,"Christina Morgan",Female,Senior,Chicago,"United States",16220.099999999999,2
+1934862,"Tauno Mönkkönen",Male,Middle,"Orange Beach","United States",16206.169999999998,3
+1878163,"Darci Dorsey",Female,Middle,Rupert,"United States",16205.3,5
+939948,"Sophie Winter",Female,Senior,KENYON,"United Kingdom",16199.39,9
+1076568,"Sienna Short",Female,Senior,LOCHHILL,"United Kingdom",16198.91,2
+1431715,"Ilana Seymore",Female,Senior,Bucyrus,"United States",16196.1,4
+1387959,"Christine Abernathy",Female,Senior,Beltsville,"United States",16195.25,5
+2064944,"Marko Eisenhower",Male,Middle,"Old Saybrook","United States",16177.949999999999,4
+2097018,"Thérèse Lapresse",Female,Senior,Simpsonville,"United States",16172.57,3
+1935954,"Anne Gregersen",Female,Middle,Stoutland,"United States",16119.449999999999,1
+614234,"Aurélie LaCaille",Female,Middle,LOOS,France,16101.800000000001,3
+161095,"Abby Plowman",Female,Senior,"KUNDA PARK",Australia,16086.479999999998,4
+32511,"Jasper Glassop",Male,Senior,Woodford,Australia,16082.82,1
+1477343,"Joseph Rickman",Male,Middle,"Port Angeles","United States",16071.48,4
+1034273,"Jacob McCarthy",Male,Young,LONGHOPE,"United Kingdom",16071,2
+1425307,"Clayton Bradley",Male,Senior,Washington,"United States",16069.64,4
+268540,"Jennie Wilkins",Female,Middle,Balfour,Canada,16065,1
+1127381,"Mohammad Houghton",Male,Young,REGABY,"United Kingdom",16059.19,3
+555903,"Doreen Kappel",Female,Senior,"Bremen Vegesack",Germany,16049.390000000001,3
+660924,"Antoinette Corbin",Female,Young,GUÉRET,France,16044.399999999998,4
+1502567,"Timothy Morales",Male,Young,Millington,"United States",15954.630000000001,3
+1561454,"Esther Guidry",Female,Senior,Austin,"United States",15947.260000000002,6
+495181,"Stephan Eisenberg",Male,Senior,Alfhausen,Germany,15926.389999999998,4
+473689,"Diana Schulze",Female,Senior,Haibach,Germany,15918.49,2
+475105,"Nicole Thalberg",Female,Middle,Lüdinghausen,Germany,15906.899999999998,2
+1952261,"Maurelle Lajoie",Female,Senior,Scranton,"United States",15904.590000000002,5
+332332,"Todd Flores",Male,Senior,"White Rock",Canada,15899.66,4
+1869336,"Carmen Simons",Female,Senior,Oakland,"United States",15898.96,2
+1826355,"Melvin Vanwagoner",Male,Senior,"Lexington Park","United States",15863.759999999998,3
+1828761,"Alfred Silva",Male,Senior,Page,"United States",15856.88,2
+1568944,"Susan Schroeder",Female,Senior,Menasha,"United States",15834.33,5
+14962,"Mackenzie Newell",Female,Senior,Crestwood,Australia,15810.829999999998,2
+654485,"Morgana Achin",Female,Senior,AIX-EN-PROVENCE,France,15801.419999999998,4
+745462,"Gualtiero Folliero",Male,Middle,"Corte De' Frati",Italy,15796.27,3
+1510026,"Christopher Alvarado",Male,Senior,Marietta,"United States",15792.819999999998,2
+1413890,"Jena Zimmerman",Female,Young,Aloha,"United States",15791.009999999998,4
+1489610,"Rachel Knight",Female,Middle,Aurora,"United States",15778.96,2
+1012052,"Oliver Hudson",Male,Young,FANANS,"United Kingdom",15768.67,5
+1922715,"Andreas Glockner",Male,Senior,Corvallis,"United States",15747.94,1
+320073,"Jose Pigg",Male,Middle,Quebec,Canada,15715.94,4
+1625704,"James Powell",Male,Young,"Des Moines","United States",15712.539999999999,5
+529779,"Sven Vogt",Male,Senior,Eggermühlen,Germany,15711.9,1
+1538150,"Phyllis Powell",Female,Middle,Washta,"United States",15711.89,3
+1011663,"Jodie Marsden",Female,Middle,REINIGEADAL,"United Kingdom",15708.29,5
+1686021,"Herman Stafford",Male,Senior,Mansfield,"United States",15697.419999999998,4
+1132370,"Matthew Banks",Male,Middle,"CROSS INN","United Kingdom",15693.82,6
+1618221,"Anna Ouellette",Female,Middle,Seattle,"United States",15692.41,4
+1928459,"Hilaire Tétrault",Female,Senior,"Brook Park","United States",15634.88,2
+276051,"Antione Johnson",Male,Senior,Toronto,Canada,15628.39,4
+761495,"Aladino Nucci",Male,Senior,"Alfiano Natta",Italy,15627.269999999999,4
+826863,"Lindi Boelen",Female,Senior,Rotterdam,Netherlands,15616.95,2
+1451466,"Maria Paddock",Female,Middle,"West Nyack","United States",15616.33,4
+1146324,"Louie Thomas",Male,Senior,GRINDLE,"United Kingdom",15612.900000000001,6
+1480971,"Jennifer Sutherland",Female,Senior,Cleveland,"United States",15604.29,7
+1190907,"Sean Parry",Male,Middle,WHITSON,"United Kingdom",15579.349999999999,3
+1130382,"Kyle Gallagher",Male,Middle,ATCHAM,"United Kingdom",15556.969999999998,5
+724534,"Rosarmosario Greece",Male,Senior,"Castello Inici",Italy,15551.389999999998,8
+1392371,"Mae Lemons",Female,Young,"Arlington Heights","United States",15550.13,5
+244193,"Daniel Lippert",Male,Senior,Etobicoke,Canada,15548.769999999999,4
+1294164,"Dale Disalvo",Male,Middle,Dallas,"United States",15547.9,3
+241230,"Della Calhoun",Female,Senior,"Wolfe Island",Canada,15506.67,3
+1479334,"Debra Worthley",Female,Senior,Washington,"United States",15503.81,3
+1766504,"Amalia Gonzales",Female,Senior,Minneapolis,"United States",15501.96,1
+1924329,"Roy Dunne",Male,Senior,Laredo,"United States",15490.73,7
+239571,"Marie Tate",Female,Senior,"North Vancouver",Canada,15487.22,5
+319579,"Cheryl McBride",Female,Senior,Vegreville,Canada,15478.62,2
+1687392,"Elizabeth Held",Female,Senior,Notasulga,"United States",15477.58,4
+1788641,"Frederick Haney",Male,Young,Leominster,"United States",15433.33,4
+126083,"Makayla Rickards",Female,Senior,MINGAY,Australia,15401.43,2
+1756123,"Sol Wiens",Male,Senior,Camden,"United States",15390.23,5
+1486762,"Ashley Currie",Female,Middle,Plano,"United States",15387.76,1
+292643,"Shawn Dunning",Female,Senior,Victoria,Canada,15381.91,3
+1595616,"John Schendel",Male,Senior,Johnstown,"United States",15380.09,1
+725383,"Calogero Dellucci",Male,Senior,Pedescala,Italy,15370.050000000001,4
+1713253,"Tom David",Male,Middle,Gainesville,"United States",15367,1
+500332,"Daniel Kuester",Male,Middle,Hausham,Germany,15334.4,5
+768377,"Corinna Marchesi",Female,Senior,"Villaggio Garbagnate",Italy,15334.380000000001,2
+1209835,"Kevin Winkle",Male,Senior,Akron,"United States",15318.36,5
+496095,"Tom Drescher",Male,Senior,Lindenau,Germany,15285.73,4
+1652808,"Florence Booker",Female,Senior,"Spokane Valley","United States",15284.84,5
+1272086,"David Moore",Male,Middle,Philadelphia,"United States",15280.279999999999,4
+1016110,"Kiera Todd",Female,Young,TRESCOWE,"United Kingdom",15264.68,5
+494291,"Julia Reiniger",Female,Middle,"Viersen Hagenbroich",Germany,15260.140000000001,3
+817271,"Ihssane Teeuwisse",Female,Senior,Zwijndrecht,Netherlands,15256.15,3
+1091801,"Maisie Fleming",Female,Senior,HARRINGTON,"United Kingdom",15250.96,4
+1324581,"Cathleen Amendola",Female,Middle,Seymour,"United States",15247.829999999998,6
+822658,"Polat Klarenbeek",Male,Senior,Groningen,Netherlands,15224.4,4
+1151616,"Logan Brennan",Male,Senior,"STOKE GABRIEL","United Kingdom",15224,2
+1865718,"Paul Alexander",Male,Senior,Youngstown,"United States",15195.75,6
+1625909,"Sandra Manzano",Female,Senior,Milwaukee,"United States",15193,2
+531478,"Barbara Hofmann",Female,Middle,Wyhl,Germany,15183.509999999998,2
+54089,"Jake Toft",Male,Senior,"THE GLEN",Australia,15182.99,2
+935232,"Aaron Hughes",Male,Senior,"WOKEFIELD PARK","United Kingdom",15177.35,7
+1906549,"Milada Vargová",Female,Young,"East Lansing","United States",15163.519999999999,4
+1712116,"Robert Linden",Male,Senior,Bloomfield,"United States",15135.39,3
+599044,"Christina Zimmermann",Female,Senior,Kausen,Germany,15112.909999999998,4
+1553574,"Francisco Dysart",Male,Senior,Southfield,"United States",15093.38,6
+1110691,"Anna Knight",Female,Senior,BALGAVIES,"United Kingdom",15050.88,4
+1698033,"Regina Ladouceur",Female,Young,Houston,"United States",15050.35,3
+1589348,"Andrew Jones",Male,Young,Pittsburgh,"United States",15048.009999999998,5
+761908,"Edda  Zito",Female,Middle,Borsea,Italy,15047,4
+1414666,"Frances Howell",Female,Young,"Redwood City","United States",15045.44,6
+1656683,"Jillian Cedillo",Female,Senior,Pomona,"United States",15028.23,3
+662571,"Arridano Phaneuf",Male,Senior,CHOISY-LE-ROI,France,15021.89,2
+1719794,"Robert Conley",Male,Senior,Glendive,"United States",15021.16,9
+2039658,"Lillian Lewis",Female,Senior,Miami,"United States",15000.080000000002,5
+1961969,"Régulo Caballero",Male,Middle,Teterboro,"United States",14999.720000000001,3
+453872,"Thomas Gärtner",Male,Senior,Grafling,Germany,14979.95,2
+787315,"Neera Folliero",Female,Young,Gironico,Italy,14963.809999999998,7
+2018869,"Elof Åberg",Male,Senior,"Los Angeles","United States",14954.900000000001,4
+1778440,"David Jackson",Male,Senior,Chicago,"United States",14921.929999999998,5
+1750554,"Toni Morel",Female,Middle,"Bloomfield Township","United States",14888.42,2
+1852635,"Deborah Butler",Female,Middle,"Fort Smith","United States",14887.34,6
+1984464,"Nicole Bryant",Female,Senior,Peoria,"United States",14878.48,3
+1939960,"Lucie tenclová",Female,Middle,"New York","United States",14864.88,3
+429663,"Frank Waechter",Male,Senior,Niesky,Germany,14849.27,4
+1214035,"Robyn Wilson",Female,Middle,Beaverton,"United States",14844.35,3
+1199660,"Oscar Webb",Male,Middle,ROSEWELL,"United Kingdom",14838.85,5
+1816342,"Brandon Roy",Male,Middle,Fries,"United States",14834.25,5
+1517504,"Mark Sweeney",Male,Senior,Chester,"United States",14831.279999999999,2
+1592641,"Lavonne Greer",Female,Senior,Tempe,"United States",14829.11,2
+667393,"Joseph Thibault",Male,Middle,ÉCHIROLLES,France,14828.6,4
+115335,"Austin McAlpine",Male,Senior,BIRDWOODTON,Australia,14826.55,2
+1060423,"Eleanor Jackson",Female,Senior,EDITHMEAD,"United Kingdom",14823.079999999994,7
+1285972,"Sherice Turner",Female,Middle,Brookfield,"United States",14816.679999999998,4
+454774,"Paul Frueh",Male,Senior,"Bremen Schönebeck",Germany,14814.669999999998,6
+1064597,"Lewis Gibson",Male,Middle,ODSTOCK,"United Kingdom",14787.820000000002,6
+1765668,"William Doherty",Male,Young,"Saint Louis","United States",14785.679999999998,3
+81720,"Jaxon Foelsche",Male,Senior,WARAMANGA,Australia,14782.869999999999,2
+741037,"Maia Lori",Female,Middle,Bellombra,Italy,14750.46,4
+1414050,"Margo Waller",Female,Senior,Chicago,"United States",14744.18,5
+1585932,"Shawn Enlow",Female,Senior,Herbertsville,"United States",14727.25,5
+1566368,"Michelle Washington",Female,Middle,Tampa,"United States",14713.560000000001,4
+1380510,"Lee Murtagh",Male,Senior,Bloomfield,"United States",14711.49,3
+1952591,"Carolina Goncalves",Female,Senior,Norwalk,"United States",14703.039999999999,8
+1599683,"Donald Williams",Male,Middle,"Mayfield Heights","United States",14695.119999999999,6
+906832,"Josh Mistry",Male,Middle,"LLANDDANIEL FAB","United Kingdom",14677.639999999996,5
+1530958,"Anne Whitacre",Female,Senior,Elmsford,"United States",14648.33,2
+247966,"Mary Howze",Female,Senior,Montreal,Canada,14644.59,3
+1956960,"Marko Marjanovic",Male,Senior,Louisville,"United States",14637.689999999999,3
+224035,"Luke Lever",Male,Middle,Cochrane,Canada,14636.959999999997,4
+591240,"Ines Frueh",Female,Senior,Königswinter,Germany,14634.259999999998,4
+1981992,"Paulo Carvalho",Male,Senior,Marquette,"United States",14629,4
+768882,"Rinaldo Marchesi",Male,Middle,Calvello,Italy,14622.369999999999,4
+668117,"Merlin Loiseau",Male,Senior,LUNEL,France,14609.2,3
+1669971,"Amalia Ray",Female,Middle,Branchburg,"United States",14592.609999999999,3
+1310201,"James Holbrook",Male,Senior,Asheville,"United States",14590.56,5
+1192665,"Zachary Coleman",Male,Middle,"HIGH KILBURN","United Kingdom",14567.559999999998,5
+1668458,"Robert Jonas",Male,Middle,Danville,"United States",14539.57,6
+1675160,"Kendra Bland",Female,Young,Hays,"United States",14526.46,4
+947510,"Yasmin Howell",Female,Senior,"BARNWELL ST ANDREW","United Kingdom",14525.609999999999,5
+482221,"Kristin Krueger",Female,Middle,Stadtbergen,Germany,14513.16,5
+1971018,"Mikael Koivuniemi",Male,Senior,Cresson,"United States",14502.45,3
+1951766,"Roxanne Robitaille",Female,Senior,Albuquerque,"United States",14500.589999999998,5
+1216913,"Donald Woodie",Male,Senior,"Garden Grove","United States",14499.82,4
+761306,"Antonina Davide",Female,Young,Toll,Italy,14496.69,3
+631580,"Henri Henrichon",Male,Middle,NOUMÉA,France,14491.39,3
+829346,"Amela Knobben",Female,Young,Beek,Netherlands,14476.050000000001,4
+578407,"Nadine Schiffer",Female,Senior,"Viersen Hoser",Germany,14473.68,4
+118271,"Abigail Reymond",Female,Senior,ILUKA,Australia,14463.82,3
+1284953,"Jim Cosby",Male,Senior,Oakland,"United States",14463.619999999997,7
+1658273,"Jorge Lewis",Male,Senior,"Grand Rapids","United States",14458.259999999998,6
+1510251,"Linda Daniel",Female,Young,Detroit,"United States",14455.4,5
+775239,"Tabita  Calabresi",Female,Middle,"Pozzol Groppo",Italy,14444.8,5
+1929631,"Isabella Souza",Female,Senior,"San Francisco","United States",14439.050000000001,4
+336182,"Stephen Kreps",Male,Young,Edmonton,Canada,14427.01,3
+167382,"Taj Septimus",Male,Middle,"OBERNE CREEK",Australia,14426.56,1
+1502818,"Lora Jones",Female,Senior,"Los Angeles","United States",14426.44,4
+1722802,"Robert Stancil",Male,Senior,"Criders Corners","United States",14419.15,5
+1127638,"Harrison Carr",Male,Senior,"NORTON MALREWARD","United Kingdom",14403.14,7
+1344432,"Darrel Martinez",Male,Senior,Charleston,"United States",14402.990000000002,7
+1823888,"Thomas Obregon",Male,Middle,Houston,"United States",14391.9,4
+1124706,"Spencer Fraser",Male,Senior,WERVIN,"United Kingdom",14388.250000000002,8
+1281531,"Lori Nunez",Female,Middle,Gardena,"United States",14381.1,4
+1908923,"Karolin Schneider",Female,Senior,Orlando,"United States",14363.65,5
+1845084,"David Gilmore",Male,Young,Bluefield,"United States",14359.09,2
+1385568,"Beth Adams",Female,Young,"Saint Louis","United States",14352.139999999998,6
+1546540,"Nancy Foret",Female,Middle,"El Paso","United States",14342,3
+1277243,"Mark Enloe",Male,Senior,"Kansas City","United States",14337.709999999997,6
+1361042,"Jerome Scott",Male,Senior,Hays,"United States",14337.369999999999,7
+410879,"Florian Lang",Male,Middle,Geisenfeld,Germany,14333.94,1
+1614019,"Alan Bradford",Male,Senior,Wilson,"United States",14328.240000000002,4
+1373140,"Gary Lewis",Male,Senior,Boston,"United States",14326.72,4
+579994,"Martina Foerster",Female,Senior,Dietersheim,Germany,14321.98,5
+2006644,"Mio Johnsson",Male,Senior,Washington,"United States",14304.1,3
+71218,"Declan Chaffey",Male,Senior,Montrose,Australia,14296.89,2
+1713326,"Donald Woodson",Male,Young,Cairo,"United States",14282.17,2
+1818370,"Amber Martinez",Female,Senior,Virgie,"United States",14247.35,5
+1066452,"Andrew Webb",Male,Young,WHINNYFOLD,"United Kingdom",14231.98,4
+1367542,"Erica Jones",Female,Middle,Tallahassee,"United States",14211.69,2
+1868588,"Shane Harry",Male,Senior,Greenville,"United States",14204.23,6
+2038522,"Robin Strand",Male,Young,Stlouis,"United States",14173.63,3
+1216890,"Tonya Miller",Female,Senior,Chantilly,"United States",14171.350000000002,5
+1283914,"Douglas Morales",Male,Senior,Cankton,"United States",14163.25,3
+1058030,"Connor Sullivan",Male,Middle,ROSEBUSH,"United Kingdom",14163.109999999999,3
+71333,"James De Mestre",Male,Middle,"HMAS WATSON",Australia,14154.279999999999,2
+1367070,"Cathy Kane",Female,Middle,Philadelphia,"United States",14152.279999999999,3
+1208003,"David Gonzalez",Male,Middle,Stamps,"United States",14143.72,5
+204136,"Helen Williams",Female,Middle,Burnaby,Canada,14130.189999999999,3
+1602426,"Joseph Hamilton",Male,Middle,Washington,"United States",14128.859999999999,8
+1553271,"James Gilpin",Male,Middle,"Hartford City","United States",14128.029999999999,4
+1215660,"Frances Bacher",Female,Young,Wilton,"United States",14127.47,4
+1885398,"James Hopkins",Male,Senior,Bradford,"United States",14110,2
+373746,"Megan Roundy",Female,Middle,Chicoutimi,Canada,14103.910000000002,5
+770560,"Tarquinia Cremonesi",Female,Senior,Tolentino,Italy,14098.25,5
+1306536,"John Rana",Male,Senior,Tomball,"United States",14090.56,4
+1167961,"Millie Parry",Female,Young,WHITEHILL,"United Kingdom",14087.609999999999,5
+1940708,"Melissa Souza",Female,Senior,Mansfield,"United States",14082.95,6
+1458743,"Laura Forsyth",Female,Senior,Denver,"United States",14080.199999999999,4
+1360960,"Viola Strickland",Female,Senior,"Charles Town","United States",14078.999999999998,3
+241760,"Paul Guy",Male,Young,Cranbrook,Canada,14078.289999999999,2
+652486,"Annette Leclerc",Female,Middle,SCHILTIGHEIM,France,14068.6,1
+759705,"Callisto Lo Duca",Male,Middle,Casilli,Italy,14045.06,2
+1316816,"Janine Smith",Female,Senior,Richton,"United States",14044.909999999998,4
+740875,"Oliviero Cattaneo",Male,Senior,"St. Christina",Italy,14034.89,1
+1697711,"Lavonne Jefferson",Female,Young,Worcester,"United States",14015.859999999999,3
+1753601,"Teresa Baxter",Female,Senior,Atlanta,"United States",14011.93,2
+1367180,"Larry Mason",Male,Senior,Plano,"United States",13996.169999999998,2
+1428180,"Johnny Huckabee",Male,Middle,Sunnyvale,"United States",13993.380000000001,4
+550082,"Dennis Hahn",Male,Middle,Wörthsee,Germany,13993,3
+1576331,"Richard Deming",Male,Young,"Burlington Junction","United States",13990.919999999996,7
+718876,"Virgilio Trentino",Male,Middle,Viconovo,Italy,13975.68,3
+1063700,"Harvey Butler",Male,Senior,ALVECOTE,"United Kingdom",13970.279999999999,3
+819369,"Jorian Diepeveen",Male,Senior,Etten-Leur,Netherlands,13967.65,2
+1344733,"Joan March",Female,Senior,Greenfield,"United States",13947.24,4
+2083381,"Eusebia Valladares",Female,Senior,Moravia,"United States",13929.91,3
+1856221,"Stephanie Moore",Female,Senior,Folsom,"United States",13926.309999999998,2
+1109178,"Eva Hewitt",Female,Senior,Overton,"United Kingdom",13925.97,4
+2025686,"Linda Nieto",Female,Middle,Phoenix,"United States",13902.32,2
+1307135,"Myrtle Wilson",Female,Middle,"Apple Springs","United States",13902.219999999998,2
+1492661,"Rosemary Harlow",Female,Middle,"New York","United States",13893.999999999998,4
+1977775,"Claudia Baer",Female,Senior,Columbia,"United States",13863.07,3
+1158843,"Jack Kay",Male,Senior,"WEST LAMBROOK","United Kingdom",13860.55,2
+1724660,"Wilfredo Pitts",Male,Middle,Beaumont,"United States",13857.89,2
+1457295,"Donald Boley",Male,Middle,Freeport,"United States",13840.289999999999,3
+557051,"Janina Freitag",Female,Middle,Heide,Germany,13838.970000000001,2
+1371642,"Shirley Bryan",Female,Senior,Douglasville,"United States",13829.289999999999,5
+1992074,"Niels Danielsen",Male,Senior,"Saint Cloud","United States",13827.059999999998,4
+2056831,"Gano Royer",Male,Senior,Chesterton,"United States",13823.039999999999,5
+388302,"Kathryn Rush",Female,Senior,Quesnel,Canada,13820.36,3
+1979995,"Frane Kovac",Male,Young,Mobile,"United States",13809.04,7
+2098097,"Gemma Trompf",Female,Middle,"Rocky Mount","United States",13807.96,2
+1401578,"Tamra Payne",Female,Senior,Memphis,"United States",13805.84,5
+917522,"Anthony Gregory",Male,Middle,"HILLIARD'S CROSS","United Kingdom",13775.3,2
+993480,"Tegan Hancock",Female,Senior,"ULCAT ROW","United Kingdom",13770.25,5
+122533,"Jett Stedman",Male,Middle,"POINT COOK",Australia,13766.89,3
+1697467,"Mary Fredericksen",Female,Middle,"Grand Rapids","United States",13766.619999999999,4
+1630103,"Catherine Vandemark",Female,Senior,"San Jose","United States",13732.17,3
+775588,"Edvige Boni",Female,Middle,Premolo,Italy,13724.41,3
+1078677,"Hannah Fuller",Female,Senior,CATESBY,"United Kingdom",13711.869999999999,2
+494192,"Martina Krueger",Female,Senior,Dallgow,Germany,13698.880000000001,3
+1531565,"Carolyn Maldonado",Female,Young,Greenville,"United States",13688.4,4
+583886,"Daniel Faerber",Male,Senior,Perkam,Germany,13678.919999999998,1
+1541789,"Mike Sample",Male,Senior,Syracuse,"United States",13678.619999999999,5
+1796189,"Dane Lee",Male,Middle,Palominas,"United States",13676.189999999999,3
+1987984,"Aurore Gladu",Female,Senior,Newark,"United States",13668.99,1
+2082326,"Sarah Busch",Female,Middle,Denver,"United States",13665.45,3
+1576676,"Luther Brown",Male,Young,Reston,"United States",13665.32,3
+1743080,"Brian Hagler",Male,Senior,"Fort Worth","United States",13652.009999999998,3
+1503301,"Sophie Aguilar",Female,Senior,Louisville,"United States",13644.529999999999,5
+542632,"Annett Hoch",Female,Middle,Fischbachau,Germany,13626.099999999999,4
+805914,"Lotty Jenniskens",Female,Middle,Nijverdal,Netherlands,13622.600000000002,4
+1279307,"Brian Burgess",Male,Middle,Hartford,"United States",13619.18,2
+416872,"Mario Fiedler",Male,Senior,Berglicht,Germany,13618.599999999999,4
+831151,"Steffany Kerkstra",Female,Senior,Heijenrath,Netherlands,13618.45,2
+1681186,"Jennifer Gross",Female,Middle,Savannah,"United States",13594.06,2
+1381883,"Luke Watson",Male,Young,Burbank,"United States",13584.549999999997,8
+774483,"Artemisia Russo",Female,Senior,Epinel,Italy,13581.23,5
+1484343,"Marc Taylor",Male,Middle,Cibicue,"United States",13575.13,4
+196288,"Stella Cardell",Female,Senior,BALLIMORE,Australia,13573.29,1
+2090406,"Franciszek Sawicki",Male,Senior,Columbus,"United States",13572.339999999998,3
+9915,"Ebony Buxton",Female,Middle,SEPPINGS,Australia,13569,1
+1865702,"Paul Peck",Male,Senior,Calhan,"United States",13564.41,3
+1501439,"Naomi McDonald",Female,Middle,Truxton,"United States",13559.38,4
+1155341,"Millie Brown",Female,Young,SCOLTON,"United Kingdom",13551,2
+715102,"Claudia Lo Duca",Female,Senior,Piraino,Italy,13549.7,6
+930304,"Mollie Smart",Female,Senior,BEELEY,"United Kingdom",13548.049999999997,5
+401221,"Uwe Wexler",Male,Senior,Oberthulba,Germany,13541.33,2
+1898417,"Theresa Keller",Female,Middle,Aurora,"United States",13534.89,2
+1746364,"Claude Tompkins",Male,Senior,"Sand Springs","United States",13518.3,4
+433554,"Markus Kuster",Male,Middle,"Bergisch Gladbach Herrenstrunden",Germany,13515.78,3
+1950591,"Iva Ivanec",Female,Middle,"Laurel Hill","United States",13512.789999999999,3
+1104029,"Harrison Gardiner",Male,Senior,BROOME,"United Kingdom",13511.05,3
+1358700,"Helen Taylor",Female,Senior,Germantown,"United States",13509.159999999998,3
+1062180,"Eleanor Williamson",Female,Senior,YATE,"United Kingdom",13497.66,3
+1136696,"Rachel Bennett",Female,Middle,WILKIESTON,"United Kingdom",13489.089999999998,2
+708076,"Susanna Barese",Female,Senior,"Venegono Superiore",Italy,13482.65,3
+812462,"Minouche Ankone",Female,Senior,Espel,Netherlands,13479.139999999998,5
+1591484,"Yvonne Cross",Female,Senior,"New York","United States",13463.49,2
+1547527,"Jonathan Jacques",Male,Middle,"Colorado Springs","United States",13451.109999999999,2
+988697,"Nathan Rees",Male,Young,HILLWELL,"United Kingdom",13447.65,5
+1363258,"Patrick Glade",Male,Senior,"San Francisco","United States",13440.52,4
+2079677,"Jensen Brown",Male,Middle,Molt,"United States",13433.669999999998,7
+1807423,"Laura Heath",Female,Senior,"Monte Rio","United States",13408.789999999999,6
+965207,"Joel Lowe",Male,Young,"PLAS ISAF","United Kingdom",13408,4
+1761592,"James Jackson",Male,Senior,"New York","United States",13401.71,5
+1722247,"James Sosa",Male,Senior,Tremont,"United States",13386.089999999998,3
+1353843,"Silvia Ross",Female,Middle,Chicago,"United States",13374.97,5
+890094,"Emmie Talboom",Female,Senior,Eindhoven,Netherlands,13359.629999999997,4
+390807,"Daniel Taylor",Male,Senior,Toronto,Canada,13352.7,3
+1528611,"Richard Watkins",Male,Young,Northampton,"United States",13351.589999999997,3
+1424915,"Anne Romero",Female,Senior,Hollywood,"United States",13348.34,3
+1140842,"Noah Dunn",Male,Senior,NAVESTOCK,"United Kingdom",13335.119999999999,3
+1360467,"Betty Pope",Female,Senior,Worcester,"United States",13334.779999999999,4
+2022412,"Gordan Vukovic",Male,Senior,Memphis,"United States",13329.76,6
+504968,"Jennifer Aachen",Female,Middle,Bollendorf,Germany,13316.419999999996,6
+1028420,"Isaac Crawford",Male,Senior,WESTOW,"United Kingdom",13316.4,4
+1808265,"Nicholas Benedict",Male,Senior,"East Hartford","United States",13310.579999999998,4
+1782682,"Christopher Backus",Male,Senior,"Grand Rapids","United States",13309.089999999998,4
+191211,"Dakota Goldhar",Female,Middle,PONTYPOOL,Australia,13292.33,2
+1114345,"Leah Miller",Female,Senior,TALKIN,"United Kingdom",13277.769999999999,3
+1986804,"Stella Vaca",Female,Senior,Detroit,"United States",13273.619999999997,7
+1022328,"Emily Leach",Female,Senior,OGMORE,"United Kingdom",13256.630000000001,5
+1202604,"Derek Moon",Male,Middle,Bellflower,"United States",13254.98,3
+759633,"Claudio Baresi",Male,Senior,"Santa Maria In Fabriago",Italy,13251.33,2
+2040948,"Petronio Alicea",Male,Senior,Lincoln,"United States",13247.23,7
+1692266,"Harry Taylor",Male,Senior,Riverton,"United States",13242.52,3
+1498538,"Richard Tumlin",Male,Middle,Denver,"United States",13239.079999999998,5
+785565,"Arsenio Padovesi",Male,Senior,Diacceto,Italy,13239.07,2
+1190713,"Aaron Gibbs",Male,Senior,PENRHOS,"United Kingdom",13233.319999999998,3
+390926,"Grace Schweitzer",Female,Young,Montreal,Canada,13231.58,3
+1531024,"Andrea Neighbors",Female,Senior,Oakland,"United States",13218.789999999999,5
+1426124,"Priscilla Click",Female,Senior,Savannah,"United States",13197.319999999998,3
+1638102,"John Thompson",Male,Senior,Enid,"United States",13194.28,6
+1257326,"Evelyn Tolentino",Female,Middle,Milwaukie,"United States",13166.269999999999,1
+1416995,"Robert Felan",Male,Middle,Washington,"United States",13159.819999999998,5
+1484963,"Lynda Fiore",Female,Senior,Uniondale,"United States",13136.58,6
+1771296,"Patricia Smith",Female,Senior,Stlouis,"United States",13135.18,2
+1956520,"Bertram Mikkelsen",Male,Middle,Montgomery,"United States",13129.44,4
+1730391,"Kathleen Potts",Female,Young,"East Hampton","United States",13126.76,7
+1788149,"Marie Goodwin",Female,Middle,Orlando,"United States",13119.74,2
+634317,"Marcel Chartré",Male,Senior,MARSEILLE,France,13109.630000000001,3
+2011298,"Mia Åström",Female,Senior,Houston,"United States",13106.64,5
+793686,"Uriele Marcelo",Male,Senior,"Pieve Di Zignago",Italy,13097.439999999999,10
+26728,"Gemma Allan",Female,Middle,"MARRICKVILLE SOUTH",Australia,13096.96,1
+517556,"Anna Osterhagen",Female,Middle,Teistungen,Germany,13094.74,4
+1956984,"Nicolash Barbosa",Male,Middle,Greensboro,"United States",13091.75,5
+1227087,"Cathie Allen",Female,Senior,Belleville,"United States",13087.659999999998,7
+774205,"Quartilla  Trevisan",Female,Young,Fellicarolo,Italy,13086.95,3
+1117944,"Maddison Owen",Female,Senior,FOLKINGHAM,"United Kingdom",13079.920000000002,2
+1829007,"Alice Patton",Female,Senior,Baltimore,"United States",13069.95,6
+490481,"Doreen Abend",Female,Middle,Egmating,Germany,13069.16,2
+967098,"Tia Mahmood",Female,Young,PORTHMEOR,"United Kingdom",13068.800000000001,4
+713185,"Sandra Ferrari",Female,Senior,Isera,Italy,13056.79,2
+1667754,"Judith Gonzalez",Female,Senior,Houston,"United States",13056.65,1
+1704092,"Frank Olivo",Male,Senior,Birmingham,"United States",13050.699999999999,4
+542678,"Lea Werfel",Female,Middle,Weidenbach,Germany,13044.919999999998,2
+1233629,"John Delaney",Male,Middle,"Fort Myers","United States",13044.66,2
+1039050,"Rosie Hayward",Female,Middle,"ALDERLEY EDGE","United Kingdom",13042.739999999998,8
+418893,"Felix Lang",Male,Senior,Katzenbach,Germany,13039.15,5
+1883630,"Robert Segura",Male,Middle,Adams,"United States",13028.97,4
+1607584,"Todd Gray",Male,Senior,Chicago,"United States",13025.1,3
+1974339,"Lucie Tesaríková",Female,Senior,Artesia,"United States",13017.760000000002,5
+142837,"Eva Betche",Female,Middle,Belmont,Australia,13014.369999999999,2
+769121,"Cecilia Lucchesi",Female,Senior,Montanara,Italy,13002.51,2
+436081,"Maik Faerber",Male,Senior,Buchloe,Germany,12988.58,4
+1335146,"John Banks",Male,Senior,Portland,"United States",12984.89,5
+923232,"Andrew Bibi",Male,Middle,FARTHINGLOE,"United Kingdom",12982.599999999999,4
+539150,"Barbara Rothschild",Female,Young,Schwanfeld,Germany,12979.9,3
+811912,"Drifa Venrooij",Female,Senior,Amsterdam,Netherlands,12974.220000000001,3
+1365154,"Amy Reynolds",Female,Senior,Anniston,"United States",12965.77,3
+1457465,"Linda Ramsey",Female,Senior,Denver,"United States",12951.99,1
+1465462,"Tony Larson",Male,Senior,Manassas,"United States",12948.599999999999,7
+577143,"Tanja Meier",Female,Senior,Schönau,Germany,12945.83,4
+446883,"Monika Pfaff",Female,Senior,"Witten Stockum",Germany,12943.77,2
+2075181,"Paul Hernandez",Male,Middle,Kennewick,"United States",12931.109999999999,4
+1727561,"Vida Brown",Female,Middle,Seattle,"United States",12927,3
+1745076,"Jeannie Alicea",Female,Senior,"Grand Rapids","United States",12914.28,7
+1947876,"Thorsten Neustadt",Male,Senior,Olympia,"United States",12906.599999999999,5
+1022606,"Georgia Edwards",Female,Young,BRONABER,"United Kingdom",12905.320000000002,1
+616346,"Jeoffroi Potvin",Male,Middle,CERGY,France,12894.529999999999,4
+1362159,"Wayne Wallace",Male,Senior,Austin,"United States",12893.55,1
+2018685,"Jennifer Payne",Female,Senior,"Salt Lake City","United States",12881.560000000001,2
+236612,"Johnathon Burleson",Male,Senior,"North Bay",Canada,12875.9,4
+446470,"Jan Eichmann",Male,Young,Merzalben,Germany,12872.139999999998,2
+721118,"Genoveffa Castiglione",Female,Young,Passalacqua,Italy,12866.21,6
+1956840,"Fran Vidovic",Male,Senior,Waco,"United States",12864.019999999999,5
+321291,"Donald Dolby",Male,Senior,Elfros,Canada,12847.85,2
+2071494,"Andrea packová",Female,Middle,Nashville,"United States",12845.689999999999,3
+1646102,"Marc Brown",Male,Senior,Hackensack,"United States",12834.7,4
+563427,"Tobias Faust",Male,Senior,Heidenau,Germany,12831.65,3
+1542495,"Josephine Colburn",Female,Senior,"Miami Springs","United States",12830.68,3
+1489269,"Carol Clement",Female,Senior,Newark,"United States",12822.769999999999,4
+1778282,"Roy Young",Male,Senior,"Maryland Heights","United States",12817.61,3
+1314859,"Roma Dever",Female,Middle,Natick,"United States",12815.76,2
+951740,"Bethany Lawson",Female,Middle,BROUGHTON,"United Kingdom",12811.480000000001,5
+1768600,"Daniel Williams",Male,Senior,"Macks Creek","United States",12808.5,1
+448232,"Michelle Maurer",Female,Senior,Aurich,Germany,12808.42,4
+391900,"Robert Cover",Male,Middle,"South Pickering",Canada,12804.86,2
+266492,"Glenn Valdez",Female,Senior,Calgary,Canada,12804.630000000001,2
+322714,"Mary Killingsworth",Female,Middle,Quebec,Canada,12799.349999999999,3
+285999,"Geraldine Johnson",Female,Senior,Kelowna,Canada,12798.45,4
+2083671,"Henrik Petrussen",Male,Middle,Philadelphia,"United States",12780.590000000002,2
+1649724,"Lucille Boyd",Female,Young,"Las Vegas","United States",12754.78,4
+1443641,"David Rush",Male,Senior,Paola,"United States",12748.349999999999,3
+1909198,"Anais Munguia",Female,Senior,Dublin,"United States",12747.03,4
+1469753,"Thomas Hale",Male,Senior,Turrell,"United States",12737.41,3
+995286,"Kai Collier",Male,Middle,SUNDERLAND,"United Kingdom",12736.640000000001,3
+1851881,"Vernon Keaton",Male,Senior,"Crowley Lake","United States",12727.83,4
+346204,"Stanley Boudreaux",Male,Senior,"Val Brillant",Canada,12717.63,3
+1178236,"Cameron Morgan",Male,Young,CRAILINGHALL,"United Kingdom",12714.359999999999,3
+786832,"Ciriaca Boni",Female,Senior,"Villa San Martino",Italy,12699.32,4
+1797850,"Jerry Walls",Male,Young,Logansport,"United States",12685.66,3
+1087841,"Mohammad Fraser",Male,Senior,ACHNALEA,"United Kingdom",12681.71,5
+1550192,"David Campbell",Male,Young,Atlanta,"United States",12681,2
+1992835,"Lærke Kristiansen",Female,Young,Arlington,"United States",12680.59,3
+1858251,"Phillip Harper",Male,Senior,Albany,"United States",12666.070000000002,5
+353750,"Wayne Leong",Male,Middle,Kitchener,Canada,12665.68,2
+1224615,"Paula Barker",Female,Senior,Dalton,"United States",12659.15,9
+44728,"Abbey Remington",Female,Senior,DIGGORA,Australia,12658.829999999998,3
+486512,"Monika Mauer",Female,Young,Erfurt,Germany,12653.88,3
+1702898,"Dee Pickens",Male,Middle,Greenville,"United States",12649.960000000001,4
+396388,"Annie Wright",Female,Middle,Calgary,Canada,12639.93,3
+1843033,"James Wheeler",Male,Senior,Portland,"United States",12639.59,2
+2084090,"Sabine Beike",Female,Middle,"Mountain View","United States",12638.3,4
+946719,"John Faulkner",Male,Senior,CHALTON,"United Kingdom",12635.789999999997,4
+979530,"Kieran Perry",Male,Middle,EDALE,"United Kingdom",12634.55,6
+1983111,"Marveille Casgrain",Female,Senior,Anaheim,"United States",12618.09,4
+1585185,"Frank Ingles",Male,Senior,Akron,"United States",12610.509999999998,4
+102503,"Joel Siddons",Male,Senior,BORALLON,Australia,12608.48,1
+1694135,"Brett Ochoa",Male,Senior,Sacramento,"United States",12604.93,5
+1557593,"Nellie Estelle",Female,Middle,Florence,"United States",12601.220000000001,2
+1811110,"Phillip Beatty",Male,Senior,"Hickory Hills","United States",12592.16,2
+314334,"Ramon Martinez",Male,Senior,Calgary,Canada,12590.2,3
+1307296,"John Bradford",Male,Senior,Owensboro,"United States",12580.91,2
+1158204,"Jonathan Blake",Male,Senior,"LITTLE WALDINGFIELD","United Kingdom",12559.189999999999,3
+1234718,"Mary McDougall",Female,Senior,Wooster,"United States",12556.39,2
+1271947,"Angel Gallop",Male,Senior,Palmdale,"United States",12544.67,5
+1979129,"Eric Ackerman",Male,Senior,"San Mateo","United States",12540.910000000002,2
+354187,"Larry Mertens",Male,Senior,Montreal,Canada,12534,1
+1482513,"Richard Lauritsen",Male,Senior,Washington,"United States",12525.32,5
+1334369,"Michael Smith",Male,Young,Stockton,"United States",12516.88,3
+1420774,"Theresa Harmon",Female,Senior,Atlanta,"United States",12511.189999999999,2
+1050006,"Olivia Thorpe",Female,Senior,"BURNHAM OVERY","United Kingdom",12502.47,2
+1046044,"Louie Edwards",Male,Middle,CARNOCK,"United Kingdom",12501.69,3
+1135020,"Zara Lane",Female,Senior,HOSE,"United Kingdom",12500.539999999999,3
+1885738,"Mary Barnhart",Female,Middle,Waldorf,"United States",12495,1
+1398115,"Steve Caulfield",Male,Senior,"Hermosa Beach","United States",12492.81,5
+1845648,"Carlos Baldwin",Male,Senior,"South China","United States",12474.62,6
+1065501,"Sofia Dobson",Female,Middle,UFFCULME,"United Kingdom",12470.34,3
+1414205,"Sylvia Alvarez",Female,Middle,Indianapolis,"United States",12468.299999999997,4
+927241,"Demi Saunders",Female,Senior,QUADRING,"United Kingdom",12436.519999999999,5
+792588,"Maia Lo Duca",Female,Middle,Accaria,Italy,12434.34,2
+93339,"Bianca Boston",Female,Senior,KALGAN,Australia,12421.559999999998,1
+1803346,"Katie Albright",Female,Senior,Gibsonia,"United States",12409.47,3
+1250029,"Thomas Guerra",Male,Senior,Monroe,"United States",12404.919999999998,4
+959269,"Maisie Owens",Female,Senior,"ST GEORGES","United Kingdom",12402.96,1
+961929,"Declan Miles",Male,Senior,LANGTHWAITE,"United Kingdom",12402.249999999998,5
+678055,"Pinabel Laderoute",Male,Senior,L'HA-LES-ROSES,France,12401.939999999999,5
+744459,"Virgilio Trentino",Male,Senior,Chia,Italy,12396.39,6
+1170419,"Billy Clements",Male,Senior,"NETHER STOWEY","United Kingdom",12385.5,2
+1892265,"Jimmy Mathison",Male,Senior,Waxahachie,"United States",12382.159999999998,6
+312519,"Steven Smith",Male,Middle,"St Germain De Grantham",Canada,12381.560000000001,4
+1915808,"Frida Jespersen",Female,Senior,Denver,"United States",12375.98,3
+203191,"Derek Ditto",Male,Young,Chapleau,Canada,12342.84,3
+1179743,"Oscar Buckley",Male,Senior,GONFIRTH,"United Kingdom",12337.97,3
+1908428,"Bryce Smith",Male,Senior,Sunnyvale,"United States",12331.580000000002,2
+541598,"Julia Faber",Female,Senior,Kranzberg,Germany,12324.179999999998,4
+1575801,"Dale Frances",Male,Senior,"New Stanton","United States",12323.23,3
+2065513,"Faye Gibson",Female,Senior,Jonesboro,"United States",12322.22,2
+1219391,"Oscar Sullivan",Male,Middle,Morristown,"United States",12312.09,3
+1860488,"Daniel Sherman",Male,Senior,Everett,"United States",12310.439999999999,9
+1322851,"Charlie Acuna",Male,Senior,Akron,"United States",12307.57,1
+747984,"Iole Mazzanti",Female,Senior,Robegano,Italy,12297.97,2
+1971514,"Edgar Gonzalez",Male,Senior,"Oklahoma City","United States",12297.02,4
+1003107,"David Lane",Male,Senior,TICKLERTON,"United Kingdom",12296.81,4
+1625870,"Javier Roberts",Male,Senior,"Red Bank","United States",12291.829999999998,2
+1373028,"Heather Walsh",Female,Senior,"Fort Worth","United States",12290.68,2
+1259448,"Howard Rothe",Male,Senior,"Machesney Park","United States",12287.43,5
+326292,"Joyce Cerny",Female,Middle,"Elliot Lake",Canada,12273.49,2
+1538998,"Jack Huffman",Male,Senior,"Santa Barbara","United States",12257.029999999999,3
+1410945,"Wendie Vargas",Female,Young,Carlsbad,"United States",12255.34,7
+1312920,"Carol King",Female,Senior,Alexandria,"United States",12251.97,4
+1417165,"Ricardo Lindsay",Male,Senior,"New York","United States",12244.26,5
+983422,"Alexander Fowler",Male,Senior,"LITTLE LEIGHS","United Kingdom",12243.57,3
+1794922,"Karen Wilson",Female,Senior,Warrensburg,"United States",12242.949999999999,3
+1465839,"Kelly McGill",Female,Middle,"Grand Rapids","United States",12241.999999999998,5
+1893869,"Saul McFadden",Male,Senior,Jackson,"United States",12217.779999999999,5
+1197294,"Owen North",Male,Senior,INWORTH,"United Kingdom",12216.73,4
+1913013,"Haizea Saldivar",Female,Senior,"Fort Lauderdale","United States",12214.56,4
+1402107,"Sue Sherrod",Female,Middle,"Great Falls","United States",12202,1
+1317634,"Rose Kennedy",Female,Senior,Woodstock,"United States",12200.93,1
+1484561,"Alfred King",Male,Senior,Laredo,"United States",12196.289999999997,4
+1569496,"Larry Lawrence",Male,Senior,Bellevue,"United States",12192.300000000001,6
+1139887,"Alice Cross",Female,Senior,"ST IVES","United Kingdom",12191.67,3
+942659,"Elizabeth Dyer",Female,Senior,GILLINGHAM,"United Kingdom",12181.279999999999,3
+29689,"Alexis Phillipps",Female,Senior,"BURWOOD HEIGHTS",Australia,12177.99,2
+1646517,"Leon Navarra",Male,Senior,Mcallen,"United States",12176.939999999999,5
+1991742,"Lucie Nováková",Female,Senior,Sedalia,"United States",12172.91,5
+1498800,"Thomasena Cleveland",Female,Senior,"Boca Raton","United States",12164.779999999999,3
+1813538,"George Collier",Male,Young,Albuquerque,"United States",12161.47,5
+380931,"William Post",Male,Senior,Toronto,Canada,12155.16,2
+501361,"Dirk Biermann",Male,Middle,Wiesbaden,Germany,12141.37,4
+1750142,"Dan Wilson",Male,Middle,Miami,"United States",12141.06,2
+2043244,"Gustaf Andersson",Male,Senior,Baltimore,"United States",12140.760000000002,3
+1340597,"Lucia Atherton",Female,Middle,"Los Angeles","United States",12138.749999999998,2
+1233674,"Gary Reynolds",Male,Senior,Chicago,"United States",12134.489999999998,6
+599141,"Luca Maier",Male,Senior,Lüdersburg,Germany,12134.05,3
+351879,"Hanna Stewart",Female,Senior,Victoria,Canada,12131.79,4
+1601387,"Janice Bradford",Female,Middle,Madison,"United States",12128.16,5
+2054922,"Branko Antunovic",Male,Senior,"Boca Raton","United States",12107.99,6
+921096,"Paige Henry",Female,Senior,LARKHALL,"United Kingdom",12106.28,2
+1906508,"Morten Lorenzen",Male,Middle,"Beverly Hills","United States",12099.9,2
+1016078,"Luke Connolly",Male,Senior,GIRTON,"United Kingdom",12097.24,6
+2039796,"Cupido Portillo",Male,Senior,Pittsburgh,"United States",12087.970000000001,5
+1843882,"Gloria Stewart",Female,Senior,Westland,"United States",12084.449999999999,6
+402514,"Martin Zweig",Male,Middle,Lipporn,Germany,12048.310000000001,4
+209990,"Brandon Loyd",Male,Middle,Norwich,Canada,12044.53,3
+871241,"Gerardina Munsters",Female,Senior,Maasbommel,Netherlands,12033.13,3
+1389867,"Mark Borgman",Male,Senior,"Mountain View","United States",12032.710000000001,6
+1996029,"Zbynek David",Male,Senior,Manhattan,"United States",12027.84,4
+1086200,"Jennifer Nixon",Female,Middle,"WEST BERGHOLT","United Kingdom",12027.499999999998,5
+385817,"Dennis Moody",Male,Senior,Timmins,Canada,12022.8,2
+1486980,"Mack Bracamonte",Male,Middle,Chattanooga,"United States",12018.77,4
+1746527,"Charles Ferguson",Male,Senior,"Arlington Heights","United States",12017.64,3
+1445735,"Randall Cheatham",Male,Middle,"Des Moines","United States",12015.62,4
+1074065,"Jordan Wyatt",Male,Senior,INNELLAN,"United Kingdom",12013.53,5
